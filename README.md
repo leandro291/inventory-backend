@@ -1,6 +1,22 @@
-# Boot-Python API
+<h1 align="center">Inventory · API</h1>
+<p align="center">API REST de gestión de inventarios — productos, almacenes, proveedores y movimientos de stock</p>
 
-API RESTful para gestión de inventario y productos, desarrollada con Flask.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+</p>
+
+<p align="center">
+  <a href="https://inventory-frontend-mu-fawn.vercel.app"><img src="https://img.shields.io/badge/Ver_demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver demo"></a>
+  <a href="https://github.com/leandro291/inventory_frontend"><img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend"></a>
+</p>
+
+<p align="center">
+  <img src="bd_diagram.PNG" alt="Diagrama de base de datos" width="800">
+</p>
 
 ## Stack Tecnológico
 
