@@ -18,6 +18,20 @@
   <img src="bd_diagram.PNG" alt="Diagrama de base de datos" width="800">
 </p>
 
+## Demo
+
+La API desplegada en Render sirve a la [demo del frontend](https://inventory-frontend-mu-fawn.vercel.app). Cuenta de prueba:
+
+| Email | Contraseña |
+|-------|------------|
+| `user@demo.com` | `123` |
+
+> Plan gratuito de Render: la primera petición puede tardar hasta un minuto en despertar el servicio.
+
+<p align="center">
+  <img src="docs/swagger.png" alt="Documentación Swagger de la API" width="800">
+</p>
+
 ## Stack Tecnológico
 
 - **Framework:** Flask 3.1 + Flask-RESTful
