@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://inventory-frontend-mu-fawn.vercel.app"><img src="https://img.shields.io/badge/Ver_demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver demo"></a>
-  <a href="https://github.com/leandro291/inventory_frontend"><img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend"></a>
+  <a href="https://github.com/leandro291/inventory-frontend"><img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend"></a>
 </p>
 
 <p align="center">
